@@ -16,8 +16,8 @@ html,body {
 }
 
 img {
-    height: 230px;
-    width: 630px;
+    height: 330px;
+    width: 730px;
     object-fit: cover;
     border: 2px solid #a9b1d6;
     /* border-bottom: none; */
